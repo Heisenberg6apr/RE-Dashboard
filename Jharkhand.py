@@ -7,7 +7,7 @@ from streamlit_folium import folium_static
 from PIL import Image
 
 # Set Streamlit page title and header
-st.set_page_config(page_title='Decentralized Renewable Energy')
+st.set_page_config(page_title='Renewable Energy Dashboard')
 st.title('RE Installation Count and Capacity Visualization in the State of Jharkhand')
 
 st.image=('Jharkhand_Rajakiya_Chihna.jpg')
