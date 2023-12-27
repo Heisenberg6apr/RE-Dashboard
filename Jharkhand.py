@@ -29,10 +29,10 @@ logo_right_path = r"C:\Users\sachi\OneDrive\Pictures\Jharkhand_Rajakiya_Chihna.s
 
 
 # Read the CSV data
-dfall = pd.read_csv()
+dfall = pd.read_csv('UPdated from JREDA/All_Total.csv')
 
 # Load GeoJSON data
-with open(UPdated from JREDA/jhnew.geojson") as f:
+with open('UPdated from JREDA/jhnew.geojson') as f:
     geojson_data = json.load(f)
 
 st.subheader('Hover over the Districts to get the Total Count and Capacity in Jharkhand')
