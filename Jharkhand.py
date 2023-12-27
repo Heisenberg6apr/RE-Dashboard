@@ -1,10 +1,8 @@
 import streamlit as st
 import pandas as pd
-#import folium
+import folium
 import json
-#import branca.colormap as cm
-#from streamlit_folium import folium_static
-from PIL import Image
+from streamlit_folium import folium_static
 
 # Set Streamlit page title and header
 st.set_page_config(page_title='Renewable Energy Dashboard')
