@@ -3,6 +3,8 @@ import pandas as pd
 import folium
 import json
 from streamlit_folium import folium_static
+from streamlit_folium import st_folium
+
 
 # Set Streamlit page title and header
 st.set_page_config(page_title='Renewable Energy Dashboard')
