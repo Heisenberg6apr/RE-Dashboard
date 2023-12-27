@@ -1,5 +1,5 @@
 streamlit==1.28.0.
-folium==0.14.0
+folium
 pandas==2.1.4
 geopandas==0.14.1
 plotly.graph_objects==5.18.0
