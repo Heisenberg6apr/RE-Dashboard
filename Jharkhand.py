@@ -10,24 +10,6 @@ from PIL import Image
 st.set_page_config(page_title='Renewable Energy Dashboard')
 st.title('RE Installation Count and Capacity Visualization in the State of Jharkhand')
 
-st.image=('Jharkhand_Rajakiya_Chihna.jpg')
-#st.sidebar.image(add_logo(logo_path="C:\Users\sachi\OneDrive\Desktop\webapp\Jharkhand_Rajakiya_Chihna.svg.png", width=50, height=60)) 
-# Logo paths
-logo_left_path = r"C:\Users\sachi\OneDrive\Desktop\webapp\ceed logo.png"
-logo_right_path = r"C:\Users\sachi\OneDrive\Pictures\Jharkhand_Rajakiya_Chihna.svg.png"
-
-# Display logos using st.image
-#col1, col2, col3 = st.columns([1, 10, 1])
-
-#with col1:
-#    st.image(logo_left_path, width=10)  # Adjust the width as needed
-
-#with col2:
-#    
-#with col3:
-#    st.image(logo_right_path, width=10)  # Adjust the width as needed
-
-
 # Read the CSV data
 dfall = pd.read_csv('UPdated from JREDA/All_Total.csv')
 
