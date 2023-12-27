@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import folium
+#import folium
 import json
 import branca.colormap as cm
 from streamlit_folium import folium_static
