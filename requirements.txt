@@ -1,6 +1,6 @@
 streamlit
 pandas
-geopandas == 0.14.1
+geopandas
 plotly.graph_objects
 folium
 plotly.express
