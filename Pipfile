@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 streamlit = "*"
+folium = "*"
+geopandas = "*"
 
 [dev-packages]
 
