@@ -1,9 +1,8 @@
 streamlit
 pandas
 geopandas
-plotly.graph_objects
 folium
-plotly.express
+plotly
 folium
 streamlit_folium
 json
