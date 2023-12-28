@@ -1,8 +1,8 @@
-streamlit
-pandas
-geopandas
-plotly
+streamlit==1.25.0
+pandas==2.0.3
+geopandas==0.13.2
+plotly==5.16.1
 folium==0.14.0
 plotly_express
-streamlit_folium
-json
+streamlit_folium==0.13.0
+json5==0.9.14
