@@ -4,7 +4,7 @@ os.system('pip install -r requirements.txt')
 
 import streamlit as st
 import pandas as pd
-# import folium
+import folium
 import json
 from streamlit_folium import folium_static
 from streamlit_folium import st_folium
