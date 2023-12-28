@@ -2,7 +2,7 @@ streamlit
 pandas
 geopandas
 plotly
-folium
+folium==0.14.0
 plotly_express
 streamlit_folium
 json
