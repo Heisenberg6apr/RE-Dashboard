@@ -1,5 +1,5 @@
-streamlit>=1.13.0
-pandas==2.0.3
+
+
 geopandas==0.13.2
 plotly==5.16.1
 folium>=0.13,!=0.15.0
